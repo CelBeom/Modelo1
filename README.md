@@ -28,9 +28,8 @@ Este repositorio contiene un modelo 3D generado a partir de una nube de puntos p
    - Este archivo `README.md` que documenta el proceso
 
 ## Archivos incluidos
-- `modelo_simplificado.obj` — Malla final con UV
-- `modelo_simplificado.mtl` — Materiales asociados
-- `textura.png` — Textura generada desde el color por vértice
+- `ModeloEscultura.x3d` — Malla final con UV
+- `Textura.png` — Textura generada desde el color por vértice
 - `README.md` — Documentación del proceso
 
 ## Créditos
